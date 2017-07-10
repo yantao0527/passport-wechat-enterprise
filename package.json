@@ -1,6 +1,6 @@
 {
   "name": "@yantao0527/passport-wechat-enterprise",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Passport Strategy for Wechat Enterprise Account/微信企业号",
   "main": "index.js",
   "scripts": {
